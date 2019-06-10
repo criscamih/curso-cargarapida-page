@@ -1,2 +1,2 @@
 # curso-cargarapida-page
-Verifica la velocidad de carga de el sitio web
+Verifica la velocidad de carga del sitio web
